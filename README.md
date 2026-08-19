@@ -38,7 +38,7 @@ sayfasından alınır — asla uydurulmaz.
 
 ```
 # Claude Code içinde:
-/plugin marketplace add hailneed/painradar
+/plugin marketplace add hailneed/plugins
 /plugin install painradar@hailneed
 ```
 
