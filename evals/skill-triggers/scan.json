@@ -1,0 +1,17 @@
+{
+  "skill": "scan",
+  "should_trigger": [
+    "/painradar:scan ai overviews traffic",
+    "run the complaint radar for invoicing software for freelancers",
+    "what are people complaining about when it comes to Supabase RLS?",
+    "şikayet radarı çalıştır: muhasebe yazılımı KOBİ'ler için",
+    "insanlar LLM faturaları hakkında neyden şikayetçi, kanıtlarıyla göster",
+    "pain points for solo founders doing cold email in 2026"
+  ],
+  "should_not_trigger": [
+    "which of these ideas should I build?",
+    "how do I launch my app on Hacker News?",
+    "analyze my Claude Code history",
+    "fix the failing test in radar.mjs"
+  ]
+}

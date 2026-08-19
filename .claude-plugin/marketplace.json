@@ -1,0 +1,15 @@
+{
+  "name": "hailneed",
+  "description": "Plugins by hailneed — evidence-first tools for Claude Code: who you are (devpersona), what to build and how to launch it (painradar).",
+  "owner": {
+    "name": "hailneed",
+    "url": "https://github.com/hailneed"
+  },
+  "plugins": [
+    {
+      "name": "painradar",
+      "source": "./",
+      "description": "Public complaints + verified revenue → evidence-backed themes, founder–opportunity fit and a launch plan. Only public data is fetched; nothing private leaves your machine."
+    }
+  ]
+}

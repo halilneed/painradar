@@ -1,0 +1,16 @@
+{
+  "skill": "fit",
+  "should_trigger": [
+    "/painradar:fit",
+    "which of these opportunities is actually worth building for me?",
+    "hangisi para eder, bana uygun olanı sırala",
+    "ne inşa etmeliyim? radar raporuna göre",
+    "rank the radar themes by money proof and my persona"
+  ],
+  "should_not_trigger": [
+    "run the radar for AI visibility tools",
+    "write my Show HN post",
+    "pazarlama akışı çıkar",
+    "show my usage stats"
+  ]
+}

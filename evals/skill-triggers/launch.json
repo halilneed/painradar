@@ -1,0 +1,17 @@
+{
+  "skill": "launch",
+  "should_trigger": [
+    "/painradar:launch repo",
+    "/painradar:launch idea",
+    "pazarlama akışı oluştur, ilk 100 müşteri nereden gelir?",
+    "how should I launch this, which subreddit and when Show HN?",
+    "go-to-market plan for the AI visibility monitor idea",
+    "lansman planı ve 30 günlük takvim istiyorum"
+  ],
+  "should_not_trigger": [
+    "what do people complain about in r/SaaS?",
+    "which idea fits me best?",
+    "bana skill öner",
+    "refactor this function"
+  ]
+}
