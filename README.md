@@ -105,7 +105,7 @@ history never leave your machine.
 - `/painradar:launch [repo|idea]` — one primary channel with reasons, posting rules,
   SEO comparison pages, TrustMRR listing, 30-day calendar, 3 content briefs
 
-**Install** (inside Claude Code): `/plugin marketplace add hailneed/painradar` then
+**Install** (inside Claude Code): `/plugin marketplace add hailneed/plugins` then
 `/plugin install painradar@hailneed`. **Standalone:** `node scripts/radar.mjs --topic "…" --md`.
 
 **Privacy:** public sources only; no usernames in output; Reddit off by default and
