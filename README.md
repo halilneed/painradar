@@ -8,6 +8,8 @@
 >
 > *English summary below.*
 
+**Site:** https://hailneed.github.io/painradar/
+
 `devpersona` **kim olduğunu** söyler. `painradar` **ne inşa etmen** ve **nasıl
 satman** gerektiğini söyler — ikisi de aynı ilkeyle: kanıtı olmayan öneri rapora giremez.
 
@@ -78,6 +80,7 @@ node painradar/scripts/radar.mjs --selftest
 - **Radar Cloud (ücretli, opsiyonel):** zamanlanmış günlük taramalar, geçmiş ve grafikler,
   Telegram/Slack digest, TrustMRR verisi dahil, ekip paylaşımı, ajanslar için beyaz etiket
   rapor. Plugin ücretsiz kalır; bulut, "her sabah hazır radar" isteyenler için.
+  Bekleme listesi: https://hailneed.github.io/painradar/#cloud
 
 ## Çıktı örneği (`--md --lang tr`)
 
