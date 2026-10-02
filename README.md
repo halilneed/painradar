@@ -8,7 +8,7 @@
 >
 > *English summary below.*
 
-**Site:** https://hailneed.github.io/painradar/
+**Site:** https://halilneed.github.io/painradar/
 
 `devpersona` **kim olduğunu** söyler. `painradar` **ne inşa etmen** ve **nasıl
 satman** gerektiğini söyler — ikisi de aynı ilkeyle: kanıtı olmayan öneri rapora giremez.
@@ -40,7 +40,7 @@ sayfasından alınır — asla uydurulmaz.
 
 ```
 # Claude Code içinde:
-/plugin marketplace add hailneed/plugins
+/plugin marketplace add halilneed/plugins
 /plugin install painradar@hailneed
 ```
 
@@ -57,7 +57,7 @@ https://trustmrr.com/dashboard-dev).
 ## Plugin'siz kullanım
 
 ```
-git clone https://github.com/hailneed/painradar
+git clone https://github.com/halilneed/painradar
 node painradar/scripts/radar.mjs --topic "llm api bill" --github "openai bill spike" --md --lang tr
 node painradar/scripts/radar.mjs --topic "supabase rls" --hn "supabase rls;lovable security" --out radar.json
 node painradar/scripts/radar.mjs --selftest
@@ -80,7 +80,7 @@ node painradar/scripts/radar.mjs --selftest
 - **Radar Cloud (ücretli, opsiyonel):** zamanlanmış günlük taramalar, geçmiş ve grafikler,
   Telegram/Slack digest, TrustMRR verisi dahil, ekip paylaşımı, ajanslar için beyaz etiket
   rapor. Plugin ücretsiz kalır; bulut, "her sabah hazır radar" isteyenler için.
-  Bekleme listesi: https://hailneed.github.io/painradar/#cloud
+  Bekleme listesi: https://halilneed.github.io/painradar/#cloud
 
 ## Çıktı örneği (`--md --lang tr`)
 
@@ -108,7 +108,7 @@ history never leave your machine.
 - `/painradar:launch [repo|idea]` — one primary channel with reasons, posting rules,
   SEO comparison pages, TrustMRR listing, 30-day calendar, 3 content briefs
 
-**Install** (inside Claude Code): `/plugin marketplace add hailneed/plugins` then
+**Install** (inside Claude Code): `/plugin marketplace add halilneed/plugins` then
 `/plugin install painradar@hailneed`. **Standalone:** `node scripts/radar.mjs --topic "…" --md`.
 
 **Privacy:** public sources only; no usernames in output; Reddit off by default and

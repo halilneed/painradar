@@ -42,7 +42,7 @@ const COUNTRY = opt("--country", "us");
 const SUBS = list(opt("--reddit"));
 const TM_CATS = list(opt("--trustmrr"));
 const LIMIT = Math.max(5, parseInt(opt("--limit", "30"), 10) || 30);
-const UA = "painradar/0.1 (+https://github.com/hailneed/painradar; public-listing research; read-only)";
+const UA = "painradar/0.1 (+https://github.com/halilneed/painradar; public-listing research; read-only)";
 
 // ---------- sınıflandırıcı (EN + TR, şeffaf desenler) ----------
 // JS'de \b ASCII tabanlıdır ("Bugün" → "bug" eşleşir). Unicode-uyumlu sınır kullanıyoruz.

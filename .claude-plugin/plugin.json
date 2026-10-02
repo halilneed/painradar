@@ -5,9 +5,9 @@
   "description": "Turns public complaints (Hacker News, GitHub Issues, App Store reviews, optional Reddit) plus verified-revenue proof (TrustMRR) into evidence-backed themes, founder–opportunity fit and a launch plan — inside Claude Code. Only public data is fetched; your persona and repo never leave your machine.",
   "author": {
     "name": "hailneed",
-    "url": "https://github.com/hailneed"
+    "url": "https://github.com/halilneed"
   },
-  "repository": "https://github.com/hailneed/painradar",
+  "repository": "https://github.com/halilneed/painradar",
   "license": "MIT",
   "keywords": ["market-research", "complaints", "pain-points", "opportunities", "launch", "marketing", "indie-hacker", "trustmrr", "hacker-news"]
 }
